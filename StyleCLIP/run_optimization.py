@@ -15,8 +15,8 @@ from torch import optim
 from torch.nn.functional import normalize
 from tqdm import tqdm
 
-from clip_exp.proj_aug_emb import get_pae
-from clip_exp.utils import image_tensor_to_pre_clip
+from proj_aug_emb import get_pae
+from ..utils import image_tensor_to_pre_clip
 from criteria.clip_loss import CLIPLoss
 from mapper.training.train_utils import STYLESPACE_DIMENSIONS
 from models.stylegan2.model import Generator

@@ -7,8 +7,8 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(os.path.dirname((os.path.dirname(os.path.abspath(__file__)))))
 
 from torch.nn.functional import normalize
-from clip_exp.utils import image_tensor_to_pre_clip
-from clip_exp.proj_aug_emb import get_pae
+from ...utils import image_tensor_to_pre_clip
+from proj_aug_emb import get_pae
 
 import argparse
 import math
@@ -20,7 +20,7 @@ from tqdm import tqdm
 
 from utils.common import CLIPLoss
 from models.stylegan2.model import Generator
-from base.models.perceptual_model import PerceptualModel
+from ..base.models.perceptual_model import PerceptualModel
 import clip
 
 

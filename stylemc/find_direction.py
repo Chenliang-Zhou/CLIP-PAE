@@ -15,8 +15,8 @@ import sys
 sys.path.append("..")
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from clip_exp.proj_aug_emb import get_pae
-from clip_exp.utils import run_in_small_batch, image_tensor_to_pre_clip
+from proj_aug_emb import get_pae
+from utils import run_in_small_batch, image_tensor_to_pre_clip
 
 import re
 import math
