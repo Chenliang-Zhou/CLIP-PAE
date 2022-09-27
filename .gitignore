@@ -5,6 +5,12 @@ __pycache__/
 
 .DS_Store
 .idea/
+/TediGAN/.gitattributes
+/StyleCLIP/global_directions/html/
+/StyleCLIP/global_directions/model/
+/StyleCLIP/global_directions/npy/
+/StyleCLIP/.gitignore
+/stylemc/.gitignore
 
 # C extensions
 *.so
