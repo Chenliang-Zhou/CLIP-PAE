@@ -132,7 +132,6 @@ def parse_args():
     parser.add_argument("--lr", help="learning rate", type=float, default=0.001)
     parser.add_argument("--target", help="optimization target",
                         choices=["text", "pae", "pae+", "paeGS+", "paePCA+", "paeAllEx", "paeAllExD", "dpeGS", "dpePCA"], default="text")
-    parser.add_argument("--target-path", help="the path to the target, pt format (pytorch)", type=str)
     parser.add_argument("--power", help="augmentation power for projected embedding", type=float, default=8.0)
     parser.add_argument("--components", help="the number of principle components to approximate the emotion subspace", type=int, default=10)
     parser.add_argument("-i", "--interpolation", help="whether to display the interpolation of the first two texts", action="store_true")
