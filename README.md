@@ -27,6 +27,6 @@ Please refer to
 ```
 python run_models.py --help
 ```
-for help for passing the arguments.
+for help in passing the arguments.
 
 In particular, the two most important arguments are `--method` and `--target` (when `--target=text`, this is the naive approach of using text embedding as the target). 
