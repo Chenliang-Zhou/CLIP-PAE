@@ -4,7 +4,7 @@
 
 <p align="center">Department of Computer Science and Technology<br>University of Cambridge</p>
 
-<p align="center"><a href="https://chenliang-zhou.github.io/PAE/">[Project page]</a>      <a href="https://arxiv.org/abs/2210.03919">[Paper]</a></p>
+<p align="center"><a href="https://chenliang-zhou.github.io/CLIP-PAE/">[Project page]</a>      <a href="https://arxiv.org/abs/2210.03919">[Paper]</a></p>
 
 ![teaser](docs/img/show_image_display_in_paper.png)
 
