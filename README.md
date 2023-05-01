@@ -6,7 +6,8 @@
 
 <p align="center"><a href="https://chenliang-zhou.github.io/CLIP-PAE/">[Project page]</a>      <a href="https://arxiv.org/abs/2210.03919">[Paper]</a></p>
 
-![teaser](docs/img/show_image_display_in_paper.png)
+![teaser](docs/img/show_image_display_in_paper_0.png)
+![teaser](docs/img/show_image_display_in_paper_1.png)
 
 
 # Abstract
