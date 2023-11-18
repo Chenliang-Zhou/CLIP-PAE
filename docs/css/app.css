@@ -189,6 +189,7 @@ span.highlight {
     line-height: normal; /* Default line height */
     margin: 0.5em 0; /* Smaller top and bottom margins */
     width: 130%;
+    margin-left: calc((100% - 130%) / 2);
 }
 
 code {
