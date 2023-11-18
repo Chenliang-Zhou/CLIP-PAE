@@ -1,6 +1,6 @@
 # CLIP-PAE: Projection-Augmentation Embedding to Extract Relevant Features for a Disentangled, Interpretable, and Controllable Text-Guided Face Manipulation
 
-<p align="center"><a href="https://www.cst.cam.ac.uk/people/cz363">Chenliang Zhou</a>, <a href="https://www.cl.cam.ac.uk/~fz261/">Fangcheng Zhong</a>, <a href="https://www.cl.cam.ac.uk/~aco41/">Cengiz Oztireli</a></p>
+<p align="center"><a href="https://chenliang-zhou.github.io">Chenliang Zhou</a>, <a href="https://www.cl.cam.ac.uk/~fz261/">Fangcheng Zhong</a>, <a href="https://www.cl.cam.ac.uk/~aco41/">Cengiz Oztireli</a></p>
 
 <p align="center">Department of Computer Science and Technology<br>University of Cambridge</p>
 
