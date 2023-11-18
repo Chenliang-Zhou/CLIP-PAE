@@ -188,6 +188,7 @@ pre {
     white-space: nowrap; /* Prevents the content from wrapping */
     line-height: normal; /* Default line height */
     margin: 0.5em 0; /* Smaller top and bottom margins */
+    width: 130%;
 }
 
 code {
