@@ -185,15 +185,15 @@ span.highlight {
     overflow: auto;
     overflow-x: auto; /* Horizontal scrollbar when needed */
     padding: 0.5em; /* Smaller padding */
-    white-space: pre; /* Prevents the content from wrapping */
     line-height: normal; /* Default line height */
     margin: 0.5em 0; /* Smaller top and bottom margins */
     width: 130%;
     margin-left: calc((100% - 130%) / 2);
 }
 
-code {
+#bibtex code {
     color: #000;
     font-family: monospace;
     font-size: 0.9em;
+    white-space: pre; /* Prevents the content from wrapping */
 }
