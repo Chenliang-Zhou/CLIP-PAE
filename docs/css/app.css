@@ -183,10 +183,15 @@ pre {
     background-color: #f5f5f5;
     page-break-inside: avoid;
     overflow: auto;
-    white-space: pre;
+    overflow-x: auto; /* Horizontal scrollbar when needed */
+    padding: 0.5em; /* Smaller padding */
+    white-space: nowrap; /* Prevents the content from wrapping */
+    line-height: normal; /* Default line height */
+    margin: 0.5em 0; /* Smaller top and bottom margins */
 }
 
 code {
+    color: #333;
     font-family: monospace;
-    font-size: 15px;
+    font-size: 0.9em;
 }
