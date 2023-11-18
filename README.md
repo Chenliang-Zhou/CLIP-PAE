@@ -31,3 +31,14 @@ python run_models.py --help
 for help in passing the arguments.
 
 In particular, the two most important arguments are `--method` and `--target` (when `--target=text`, this is the naive approach of using text embedding as the target). 
+
+# Citation
+```
+@inproceedings{zhou2023clip,
+  title={CLIP-PAE: Projection-Augmentation Embedding to Extract Relevant Features for a Disentangled, Interpretable and Controllable Text-Guided Face Manipulation},
+  author={Zhou, Chenliang and Zhong, Fangcheng and Oztireli, Cengiz},
+  booktitle={ACM SIGGRAPH 2023 Conference Proceedings},
+  pages={1--9},
+  year={2023}
+}
+```
