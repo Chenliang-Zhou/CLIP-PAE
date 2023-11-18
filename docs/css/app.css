@@ -183,12 +183,11 @@ span.highlight {
     background-color: #f5f5f5;
     page-break-inside: avoid;
     overflow: auto;
-    overflow-x: auto; /* Horizontal scrollbar when needed */
     padding: 0.5em; /* Smaller padding */
     line-height: normal; /* Default line height */
     margin: 0.5em 0; /* Smaller top and bottom margins */
-    width: 130%;
-    margin-left: calc((100% - 130%) / 2);
+/*     width: 130%; */
+/*     margin-left: calc((100% - 130%) / 2); */
 }
 
 #bibtex code {
